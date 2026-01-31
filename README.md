@@ -22,6 +22,9 @@
 
 **Replix** is an AI-powered content repurposing platform that transforms your blogs, videos, and podcasts into 30+ platform-optimized outputs. Save hours of content creation time while maintaining your unique brand voice across Twitter/X, LinkedIn, Instagram, YouTube, TikTok, and more.
 
+<img width="1924" height="1434" alt="Relix-index" src="https://github.com/user-attachments/assets/9dca2dce-5197-4f16-b8cb-8d2f5c231573" />
+
+
 ### Why Replix?
 
 - **10x Faster Content Creation** - What took hours now takes seconds
